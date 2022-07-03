@@ -26,5 +26,7 @@ How to use:
 !go_msg
 
 thanks to:
+
 telebot lib
-Nadia & Anya - the english teachers who helped with testing all the way.
+
+Nadia & Anya - the brilliant english teachers, authors of the original idea and lots of help with testing the app.
